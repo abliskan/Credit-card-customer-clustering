@@ -1,1 +1,1 @@
-# Credit-card-customer-clustering
+# Clustering Bank Credit Card Customers using KMeans
